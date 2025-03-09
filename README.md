@@ -37,14 +37,6 @@ The framework leverages limit order book data to design meaningful trading signa
 
 ---
 
-### **Price Series Visualization**  
-
-A visual overview of price dynamics, including best bid and ask prices, helps in identifying trends and anomalies:  
-
-*(Visualization placeholder: "Best Bid/Ask Price Series")*  
-
----
-
 
 #### **Additional Signals**  
 The framework allows the inclusion of custom signals such as:  
