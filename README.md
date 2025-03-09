@@ -118,21 +118,5 @@ The framework includes several standard classification models:
 #### **Refining Metrics**  
 - Enhance performance metrics, accounting for PnL adjustments, transaction costs, and commission fees for a more realistic evaluation.  
 
----
-
-### **Visualization Examples**  
-
-#### **Depth Ratio and Order Book Imbalance:**  
-*(Example visualizations comparing depth ratios during trading hours)*  
-
-#### **Prediction Accuracy Series:**  
-*(Accuracy plots for individual trading days)*  
-
-#### **Best Model Results:**  
-*(Graphs highlighting top-performing models)*  
-
----
-
-### **Conclusion**  
 
 This HFT framework, originally developed by **Bradley**, has been modified and enhanced to expand its capabilities. By combining ML/DL techniques with robust feature engineering, it provides a versatile toolkit for developing and testing high-frequency trading strategies. Future enhancements can further elevate its performance and adaptability to meet evolving market demands.
