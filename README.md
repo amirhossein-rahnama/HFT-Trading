@@ -4,7 +4,7 @@
 
 ### High-Frequency Trading (HFT) Framework: Machine and Deep Learning Applications  
 
-This project introduces a comprehensive framework for high-frequency trading (HFT), utilizing machine learning (ML) and deep learning (DL) techniques. Originally developed by **Bradley**, this framework has been modified and enhanced to incorporate additional features, making it a robust and adaptable pipeline for extracting trading signals and predicting market dynamics. 
+This project introduces a comprehensive framework for high-frequency trading (HFT), utilizing machine learning (ML) and deep learning (DL) techniques. Originally developed by Bradley, this framework has been modified and enhanced to incorporate additional features, making it a robust and adaptable pipeline for extracting trading signals and predicting market dynamics. 
 
 ---
 
@@ -23,9 +23,7 @@ The project utilizes tick-level depth data from financial futures markets, focus
 
 ### **Strategy Pipeline**  
 
-The framework implements a structured pipeline for data processing, feature extraction, and model training. Below is an illustrative representation of the pipeline:  
-
-*(Pipeline diagram placeholder)*  
+The framework implements a structured pipeline for data processing, feature extraction, and model training. Below is an illustrative representation of the pipeline
 
 ---
 
@@ -47,15 +45,6 @@ A visual overview of price dynamics, including best bid and ask prices, helps in
 
 ---
 
-### **Feature Engineering & HFT Factor Design**  
-
-#### **Basic Features**  
-- Average Depth Ratio and OBI:  
-  *(Visualizations of depth ratio across trading sessions)*  
-
-#### **Weighted Features**  
-- Weighted Depth Ratio, OBI, and Rise Ratio:  
-  *(Graphs showcasing weighted signals)*  
 
 #### **Additional Signals**  
 The framework allows the inclusion of custom signals such as:  
@@ -82,20 +71,6 @@ The framework includes several standard classification models:
 - Test Window: 10 seconds.  
 - Prediction Label: 15-minute forward price movement.  
 
----
-
-### **Performance Metrics**  
-
-#### **Prediction Accuracy**  
-- Accuracy over single days and cumulative prediction performance.  
-
-#### **Cross-Validation Results**  
-- Mean accuracy and model comparison:  
-  *(Visualizations of cross-validation results)*  
-
-#### **Profit and Loss (PnL) Analysis**  
-- PnL metrics for individual and cumulative predictions:  
-  *(Graphs showcasing PnL results)*  
 
 ---
 
